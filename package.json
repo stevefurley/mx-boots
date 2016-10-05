@@ -1,0 +1,16 @@
+{
+  "name": "Kerve-Site_build",
+  "version": "1.0.0",
+  "description": "Builder the kerve",
+  "author": "",
+  "private": true,
+  "devDependencies": {
+    "grunt": "",
+    "grunt-cli": "",
+    "grunt-contrib-clean": "",
+    "grunt-contrib-concat": "",
+    "grunt-contrib-connect": "",
+    "grunt-contrib-sass": "",
+    "grunt-contrib-watch": ""
+  }
+}
